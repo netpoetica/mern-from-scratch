@@ -24,7 +24,7 @@
     "nodemon": "^1.18.9"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "express": "^4.16.4",
     "mongoose": "^5.4.5",
     "sequelize": "^4.42.0"
